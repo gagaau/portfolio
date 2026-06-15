@@ -57,7 +57,7 @@ function App() {
   return (
     <main className="page">
       <section className="hero">
-        <p className="intro">Olá, eu sou José</p>
+        <p className="intro">Olá, eu sou Gabriel Henrique.</p>
         <h1>Desenvolvedor Front-end em formação</h1>
         <p className="hero-text">
           Estou estudando desenvolvimento front-end com foco em React,
